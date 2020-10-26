@@ -1,2 +1,2 @@
-# docker-sql
+# docker-nodejs-sql
 Learning docker with Sequelized
